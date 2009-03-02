@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2566
+
+This package provides keyboard shortcuts for various UTF-8 mathematical symbols. Some of this is based on LaTeX (e.g., "\ldots" ↦ "", "\beta" ↦ β, "\mapsto" ↦ "↦"); then there are some other shortcuts (e.g., arrows, quotation marks, dashes.)
