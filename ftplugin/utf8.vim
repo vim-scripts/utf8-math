@@ -78,6 +78,7 @@ imap <buffer> \cap ∩
 imap <buffer> \cup ∪
 imap <buffer> \int ∫
 imap <buffer> \therefore ∴
+imap <buffer> \qed ∎
 imap <buffer> \1 𝟙
 imap <buffer> \N ℕ
 imap <buffer> \Z ℤ
@@ -127,7 +128,8 @@ imap <buffer> \stigma ς
 imap <buffer> \sigma σ
 imap <buffer> \tau τ
 imap <buffer> \upsilon υ
-imap <buffer> \phi φ
+imap <buffer> \phi ϕ
+imap <buffer> \varphi φ
 imap <buffer> \chi χ
 imap <buffer> \psi ψ
 imap <buffer> \omega ω
